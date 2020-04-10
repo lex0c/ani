@@ -1,2 +1,2 @@
-# ani
+# ANI
 Artificial neural intelligence
